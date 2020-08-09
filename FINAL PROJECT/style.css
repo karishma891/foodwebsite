@@ -1,0 +1,20 @@
+.navbar{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-family: cursive;
+}
+#carousel-item  .d-block{
+  height:700px;
+  width:70% auto;
+  margin-left:1 px;
+}
+.picture{
+  height:235px;
+}
+#w3-top .w3-button .w3-center .title{
+  font-weight: bold;
+  font-family: cursive;
+  font-weight: 1000;
+}
+
